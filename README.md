@@ -16,7 +16,7 @@ Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar
 # Kurulum
 1- Projeyi klonla (Git yüklü ise)
 
-* git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
+* git clone [https://github.com/Sihirbaz99/Swz_Sifre_Kirici.git](https://github.com/Sihirbaz99/AES-Password-Cracking.git)
 
 2- Gerekli kütüphaneyi yükle
 
@@ -40,5 +40,5 @@ Her türlü soru, öneri veya destek talebi için aşağıdaki kanallardan bana 
 
 E-posta: sihirbazswz@gmail.com
 
-İnstagram: https://www.instagram.com/sihirbaz.swz
+İnstagram: [https://www.instagram.com/sihirbaz.swz](https://www.instagram.com/sihirbaz.swz)
 
