@@ -2,7 +2,7 @@
 Proje Hakkında
 Swartz Official Şifre Kırıcı, AES-256 şifreleme ile korunan log dosyalarını çözmek için Python ve Tkinter kullanılarak geliştirilmiş masaüstü uygulamasıdır. Şifrelenmiş log dosyalarınızı seçip, güvenli şekilde çözerek içerikleri .txt formatında dışa aktarır.
 
-Projede 32 bayt uzunluğunda AES anahtarı kullanılması hedeflenmiştir ancak örnek kodda anahtar 16 bayt olarak verilmiştir. Projenin asıl amacı, CBC modunda AES şifrelenmiş JSON formatındaki logları çözmek ve okunabilir hale getirmektir.
+Projede 32 bayt uzunluğunda AES anahtarı kullanılması hedeflenmiştir. Projenin asıl amacı, CBC modunda AES şifrelenmiş JSON formatındaki logları çözmek ve okunabilir hale getirmektir.
 
 # Özellikler
 AES CBC Mode ile şifre çözme: Base64 kodlanmış şifreli mesaj ve IV kullanılarak güvenli şifre çözümü.
