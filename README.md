@@ -18,21 +18,20 @@ Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar
 # Kurulum 
 
 1. Projeyi klonla (Git yüklü ise)
-  >> git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
+  * git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
 
 2. Proje klasörüne gir
-  >> cd Swz_Sifre_Kirici
+  * cd Swz_Sifre_Kirici
 
 3. Gerekli kütüphaneyi yükle
- >>  pip install pycryptodome
+ *  pip install pycryptodome
 
 4. Uygulamayı çalıştır
- >>  python3 Swz_Şifre_Kırıcı.py
+ *  python3 Swz_Şifre_Kırıcı.py
 
 
 # İletişim
 Her türlü soru, öneri veya destek talebi için aşağıdaki kanallardan bana ulaşabilirsiniz:
 
 E-posta: sihirbazswz@gmail.com
-
 İnstagram : [https://www.](https://www.instagram.com/sihirbaz.swz)
