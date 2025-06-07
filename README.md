@@ -1,10 +1,10 @@
-Swartz Official Şifre Kırıcı
+# Swartz Official Şifre Kırıcı
 Proje Hakkında
 Swartz Official Şifre Kırıcı, AES-256 şifreleme ile korunan log dosyalarını çözmek için Python ve Tkinter kullanılarak geliştirilmiş masaüstü uygulamasıdır. Şifrelenmiş log dosyalarınızı seçip, güvenli şekilde çözerek içerikleri .txt formatında dışa aktarır.
 
 Projede 32 bayt uzunluğunda AES anahtarı kullanılması hedeflenmiştir ancak örnek kodda anahtar 16 bayt olarak verilmiştir. Projenin asıl amacı, CBC modunda AES şifrelenmiş JSON formatındaki logları çözmek ve okunabilir hale getirmektir.
 
-Özellikler
+# Özellikler
 AES CBC Mode ile şifre çözme: Base64 kodlanmış şifreli mesaj ve IV kullanılarak güvenli şifre çözümü.
 
 Dosya bazlı işleyiş: JSON formatındaki şifreli log dosyalarını okuyup, çözülmüş içerikleri .txt olarak kaydeder.
@@ -15,22 +15,22 @@ Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar
 
 
 
-Kurulum 
+# Kurulum 
 
-# 1. Projeyi klonla (Git yüklü ise)
+1. Projeyi klonla (Git yüklü ise)
 git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
 
-# 2. Proje klasörüne gir
+2. Proje klasörüne gir
 cd Swz_Sifre_Kirici
 
-# 3. Gerekli kütüphaneyi yükle
+3. Gerekli kütüphaneyi yükle
 pip install pycryptodome
 
-# 4. Uygulamayı çalıştır
+4. Uygulamayı çalıştır
 python3 Swz_Şifre_Kırıcı.py
 
 
-İletişim
+# İletişim
 Her türlü soru, öneri veya destek talebi için aşağıdaki kanallardan bana ulaşabilirsiniz:
 
 E-posta: sihirbazswz@gmail.com
