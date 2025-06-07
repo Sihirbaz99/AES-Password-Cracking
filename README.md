@@ -27,7 +27,7 @@ Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar
  >  pip install pycryptodome
 
 4. Uygulamayı çalıştır
- #  python3 Swz_Şifre_Kırıcı.py
+ >  python3 Swz_Şifre_Kırıcı.py
 
 
 # İletişim
