@@ -33,5 +33,5 @@ Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar
 # İletişim
 Her türlü soru, öneri veya destek talebi için aşağıdaki kanallardan bana ulaşabilirsiniz:
 
-E-posta: sihirbazswz@gmail.com
-İnstagram : [https://www.](https://www.instagram.com/sihirbaz.swz)
+*E-posta: sihirbazswz@gmail.com
+*İnstagram : [https://www.](https://www.instagram.com/sihirbaz.swz)
