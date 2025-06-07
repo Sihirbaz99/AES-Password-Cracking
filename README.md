@@ -13,26 +13,32 @@ Kullanıcı dostu GUI: Tkinter tabanlı arayüz ile kolay dosya seçimi ve kayde
 
 Hata yönetimi: Dosya okuma, yazma ve şifre çözme sırasında oluşan hatalar kullanıcıya bilgilendirici şekilde gösterilir.
 
+# Kurulum
+1- Projeyi klonla (Git yüklü ise)
 
+* git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
 
-# Kurulum 
+2- Gerekli kütüphaneyi yükle
 
-1. Projeyi klonla (Git yüklü ise)
-  * git clone https://github.com/kullaniciadi/Swz_Sifre_Kirici.git
+* pip install pycryptodome
 
-2. Proje klasörüne gir
-  * cd Swz_Sifre_Kirici
+3- Uygulamayı çalıştır
 
-3. Gerekli kütüphaneyi yükle
- *  pip install pycryptodome
+* python3 Swz_Şifre_Kırıcı.py
 
-4. Uygulamayı çalıştır
- *  python3 Swz_Şifre_Kırıcı.py
+# Notlar
+* Programda kullanılan AES anahtarı:
+key = b"Ex@mpleAESKey_32ByteLongAndStrg"
+Bu, örnek amaçlı 32 baytlık (256 bit) sabit bir anahtardır.
 
+* Şifre çözme işlemi, yalnızca bu anahtarla uyumlu şifreli dosyalarda çalışır.
+
+* Farklı anahtarlar veya şifreleme metotlarıyla şifrelenmiş dosyalar için anahtar değiştirilmesi gerekir.
 
 # İletişim
 Her türlü soru, öneri veya destek talebi için aşağıdaki kanallardan bana ulaşabilirsiniz:
 
-* E-posta: sihirbazswz@gmail.com
+E-posta: sihirbazswz@gmail.com
 
-* İnstagram : [https://www.instagram.com/sihirbaz.swz](https://www.instagram.com/sihirbaz.swz)
+İnstagram: https://www.instagram.com/sihirbaz.swz
+
